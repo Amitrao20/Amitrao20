@@ -54,12 +54,6 @@ Docker · Git · Postman · Ngrok · OpenAI API · Twilio
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://amitrao20.github.io/amitrao.github.io/&show_icons=true)
-
----
-
 🌱 Always learning, building & improving 🚀
 ## 🌱 About Me
 
