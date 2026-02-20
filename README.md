@@ -60,13 +60,6 @@ Docker · Git · Postman · Ngrok · OpenAI API · Twilio
 
 ---
 
-## 📫 Connect With Me
-
-🔗 LinkedIn: https://linkedin.com/in/amit-rao-537199146/  
-📧 Email: raoamit558@gmail.com
-
----
-
 🌱 Always learning, building & improving 🚀
 ## 🌱 About Me
 
@@ -81,6 +74,7 @@ Docker · Git · Postman · Ngrok · OpenAI API · Twilio
 ## 🤝 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/amit-rao-537199146/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raoamit558@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](YOUR_INSTAGRAM_LINK)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/Amitrao20)
 
