@@ -61,19 +61,6 @@ Docker · Git · Postman · Ngrok · OpenAI API · Twilio
 🔁 WhatsApp Automation Dashboard
 
 ---
-
-🌱 Always learning, building & improving 🚀
-## 🌱 About Me
-
-🌱 I’m currently learning **AI Automation & Advanced Full Stack Development**
-
-💬 Ask me about **Laravel, PHP, React, Node.js, API Development, AI Calling Agents**
-
-📫 How to reach me: **raoamit558@gmail.com**
-
----
-
-
 🏆 GitHub Trophies
 
 <div align="center">
@@ -85,6 +72,17 @@ Docker · Git · Postman · Ngrok · OpenAI API · Twilio
 
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/0-don/0-don/output/github-contribution-grid-snake-dark.svg)
+
+🌱 Always learning, building & improving 🚀
+## 🌱 About Me
+
+🌱 I’m currently learning **AI Automation & Advanced Full Stack Development**
+
+💬 Ask me about **Laravel, PHP, React, Node.js, API Development, AI Calling Agents**
+
+📫 How to reach me: **raoamit558@gmail.com**
+
+---
 
 ## 🤝 Connect with me
 
