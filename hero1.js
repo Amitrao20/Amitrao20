@@ -46,7 +46,6 @@ function make(theme) {
     ["Grid.Portfolio", "coming soon"],
     ["Grid.LinkedIn", "amit-upinder-rao"],
     ["Grid.GitHub", "@Amitrao20"],
-    ["Grid.Instagram", "@suraj_singh1919"],
     ["Grid.WhatsApp", "+91 9803437850"],
   ];
 
@@ -84,7 +83,7 @@ function make(theme) {
   `;
 
   return `<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1180" height="610" viewBox="0 0 1180 610" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" role="img" aria-label="Suraj Kumar Rawani - profile.sh --live">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1180" height="610" viewBox="0 0 1180 610" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" role="img" aria-label="Amit Rao - profile.sh --live">
   <defs>
     <linearGradient id="panelGrad" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0%" stop-color="${c.panelGradTop}"/>
@@ -122,7 +121,7 @@ function make(theme) {
     <circle cx="28" cy="25" r="6" fill="#EF4444"/>
     <circle cx="50" cy="25" r="6" fill="#F59E0B"/>
     <circle cx="72" cy="25" r="6" fill="#10B981"/>
-    <text x="590" y="29" text-anchor="middle" font-size="12" fill="${c.titleBarText}">rawanisuraj1919@gmail.com - % ./profile.sh --live</text>
+    <text x="590" y="29" text-anchor="middle" font-size="12" fill="${c.titleBarText}">gkamit943@gmail.com - % ./profile.sh --live</text>
 
     <!-- LEFT: VISUAL.MAP -->
     <text x="38" y="74" font-size="10" letter-spacing="3" fill="${c.soft}">VISUAL.MAP</text>
@@ -135,7 +134,7 @@ function make(theme) {
     ${brackets}
     <!-- Name + designation on photo (restored) -->
     <rect x="44" y="488" width="384" height="72" fill="${dark ? "rgba(11,18,32,0.82)" : "rgba(255,255,255,0.88)"}"/>
-    <text x="236" y="520" text-anchor="middle" font-size="18" font-weight="700" fill="${c.textStrong}">Suraj Kumar Rawani</text>
+    <text x="236" y="520" text-anchor="middle" font-size="18" font-weight="700" fill="${c.textStrong}">Amit Rao</text>
     <text x="236" y="544" text-anchor="middle" font-size="13" fill="${c.accent}">AI/ML Engineer</text>
 
     <!-- RIGHT: SYSTEM.INFO -->
@@ -143,7 +142,7 @@ function make(theme) {
     <text x="1125" y="74" text-anchor="end" font-size="12" fill="${c.live}" font-weight="700"><tspan>&#9679;</tspan> LIVE<animate attributeName="opacity" values="1;0.35;1" dur="1.6s" repeatCount="indefinite"/></text>
 
     <rect x="470" y="90" width="280" height="22" rx="4" fill="${c.emailBg}"/>
-    <text x="479" y="106" font-size="14" font-weight="700" fill="${c.emailFg}">rawanisuraj1919@gmail.com</text>
+    <text x="479" y="106" font-size="14" font-weight="700" fill="${c.emailFg}">gkamit943@gmail.com</text>
 
 ${body}
     <rect x="470" y="560" width="655" height="24" rx="4" fill="${c.footerBg}"/>
