@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1180" height="610" viewBox="0 0 1180 610" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" role="img" aria-label="Amit Rao - profile.sh --live">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1180" height="610" viewBox="0 0 1180 610" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" role="img" aria-label="Suraj Kumar Rawani - profile.sh --live">
   <defs>
     <linearGradient id="panelGrad" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0%" stop-color="#0B1220"/>
@@ -130,8 +130,8 @@
   
     <!-- Name + designation on photo (restored) -->
     <rect x="44" y="488" width="384" height="72" fill="rgba(11,18,32,0.82)"/>
-    <text x="236" y="520" text-anchor="middle" font-size="18" font-weight="700" fill="#F8FAFC">Amit Rao Kumar </text>
-    <text x="236" y="544" text-anchor="middle" font-size="13" fill="#22D3EE">AI/ML Engineer</text>
+    <text x="236" y="520" text-anchor="middle" font-size="18" font-weight="700" fill="#F8FAFC">Amit Rao</text>
+    <text x="236" y="544" text-anchor="middle" font-size="13" fill="#22D3EE">Software Engineer</text>
 
     <!-- RIGHT: SYSTEM.INFO -->
     <text x="470" y="74" font-size="13" letter-spacing="2" fill="#22D3EE" filter="url(#txtGlow)">SYSTEM.INFO</text>
@@ -142,7 +142,7 @@
 
 <text x="470" y="148" font-size="13" textLength="655" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><tspan fill="#22D3EE">Subject </tspan><tspan fill="rgba(148,163,184,0.55)">.............................................</tspan><tspan fill="#E2E8F0" font-weight="600"> Amit Rao</tspan></text>
 <text x="470" y="168" font-size="13" textLength="655" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><tspan fill="#22D3EE">Role </tspan><tspan fill="rgba(148,163,184,0.55)">....................................................</tspan><tspan fill="#E2E8F0" font-weight="600"> AI/ML Engineer</tspan></text>
-<text x="470" y="188" font-size="13" textLength="655" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><tspan fill="#22D3EE">Origin </tspan><tspan fill="rgba(148,163,184,0.55)">................................................</tspan><tspan fill="#E2E8F0" font-weight="600"> New Delhi, India</tspan></text>
+<text x="470" y="188" font-size="13" textLength="655" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><tspan fill="#22D3EE">Origin </tspan><tspan fill="rgba(148,163,184,0.55)">................................................</tspan><tspan fill="#E2E8F0" font-weight="600"> ludhiana, India</tspan></text>
 <text x="470" y="208" font-size="13" textLength="655" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><tspan fill="#22D3EE">Education </tspan><tspan fill="rgba(148,163,184,0.55)">..................................</tspan><tspan fill="#E2E8F0" font-weight="600"> MCA · Chandigarh University</tspan></text>
 <text x="470" y="228" font-size="13" textLength="655" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><tspan fill="#22D3EE">Status </tspan><tspan fill="rgba(148,163,184,0.55)">..................................</tspan><tspan fill="#E2E8F0" font-weight="600"> Building + Learning + Shipping</tspan></text>
 <text x="470" y="248" font-size="13" textLength="655" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><tspan fill="#22D3EE">ToolChain </tspan><tspan fill="rgba(148,163,184,0.55)">................................</tspan><tspan fill="#E2E8F0" font-weight="600"> VS Code, Git, Docker, FastAPI</tspan></text>
@@ -152,11 +152,11 @@
 <text x="470" y="328" font-size="13" textLength="655" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><tspan fill="#22D3EE">Core.Database </tspan><tspan fill="rgba(148,163,184,0.55)">.......................................</tspan><tspan fill="#E2E8F0" font-weight="600"> SQL, FAISS, Pandas</tspan></text>
 <text x="470" y="348" font-size="13" textLength="655" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><tspan fill="#22D3EE">Core.Infra </tspan><tspan fill="rgba(148,163,184,0.55)">..................................</tspan><tspan fill="#E2E8F0" font-weight="600"> Docker, GitHub, Databricks</tspan></text>
 <text x="470" y="368" font-size="13" textLength="655" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><tspan fill="#64748B">- Contact </tspan><tspan fill="rgba(148,163,184,0.55)">----------------------------------------------------------</tspan></text>
-<text x="470" y="388" font-size="13" textLength="655" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><tspan fill="#22D3EE">Grid.Mail </tspan><tspan fill="rgba(148,163,184,0.55)">....................................</tspan><tspan fill="#E2E8F0" font-weight="600">gkamit943@gmail.com</tspan></text>
+<text x="470" y="388" font-size="13" textLength="655" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><tspan fill="#22D3EE">Grid.Mail </tspan><tspan fill="rgba(148,163,184,0.55)">....................................</tspan><tspan fill="#E2E8F0" font-weight="600"> gkamit943@gmail.com</tspan></text>
 <text x="470" y="408" font-size="13" textLength="655" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><tspan fill="#22D3EE">Grid.Portfolio </tspan><tspan fill="rgba(148,163,184,0.55)">.............................................</tspan><tspan fill="#E2E8F0" font-weight="600"> coming soon</tspan></text>
-<text x="470" y="428" font-size="13" textLength="655" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><tspan fill="#22D3EE">Grid.LinkedIn </tspan><tspan fill="rgba(148,163,184,0.55)">.............................</tspan><tspan fill="#E2E8F0" font-weight="600"> Amit-upinder-rao</tspan></text>
+<text x="470" y="428" font-size="13" textLength="655" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><tspan fill="#22D3EE">Grid.LinkedIn </tspan><tspan fill="rgba(148,163,184,0.55)">.............................</tspan><tspan fill="#E2E8F0" font-weight="600"> amit-upinder-rao</tspan></text>
 <text x="470" y="448" font-size="13" textLength="655" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><tspan fill="#22D3EE">Grid.GitHub </tspan><tspan fill="rgba(148,163,184,0.55)">...........................................</tspan><tspan fill="#E2E8F0" font-weight="600"> @amitrao20</tspan></text>
-<text x="470" y="488" font-size="13" textLength="655" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><tspan fill="#22D3EE">Grid.WhatsApp </tspan><tspan fill="rgba(148,163,184,0.55)">...........................................</tspan><tspan fill="#E2E8F0" font-weight="600"> +91 7061205601</tspan></text>
+<text x="470" y="488" font-size="13" textLength="655" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><tspan fill="#22D3EE">Grid.WhatsApp </tspan><tspan fill="rgba(148,163,184,0.55)">...........................................</tspan><tspan fill="#E2E8F0" font-weight="600"> +91 9803437850</tspan></text>
 
     <rect x="470" y="560" width="655" height="24" rx="4" fill="#0F172A"/>
     <text x="480" y="577" font-size="13" fill="#94A3B8">&#9654; More about me &amp; projects below in README &#9660;</text>
