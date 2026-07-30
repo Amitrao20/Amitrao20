@@ -4,9 +4,9 @@
 <!-- GitHub automatically shows dark.svg in dark mode and light.svg in light mode -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SurajRawani1919/SurajRawani1919/main/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SurajRawani1919/SurajRawani1919/main/light.svg">
-  <img alt="Suraj Kumar Rawani" src="https://raw.githubusercontent.com/SurajRawani1919/SurajRawani1919/main/light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Amitrao20/Amitrao20/main/dark-tm.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Amitrao20/Amitrao20/main/light-tm.svg">
+  <img alt="Amit Rao" src="https://raw.githubusercontent.com/Amitrao20/Amitrao20/main/light-tm.svg">
 </picture>
 
 <!-- ===== GITHUB STATS ===== -->
