@@ -1,5 +1,5 @@
 const fs = require("fs");
-const path = "C:/Users/rawan/OneDrive/Desktop/SurajRawani1919";
+const path = "C:/Users/rawan/OneDrive/Desktop/amitrao";
 const photo = fs.readFileSync(`${path}/assets/profile.jpg`).toString("base64");
 const photoUri = `data:image/jpeg;base64,${photo}`;
 
@@ -28,13 +28,13 @@ function make(theme) {
   };
 
   const rows = [
-    ["Subject", "Suraj Kumar Rawani"],
+    ["Subject", "Amit Rao"],
     ["Role", "AI/ML Engineer"],
     ["Origin", "New Delhi, India"],
     ["Education", "MCA · Chandigarh University"],
     ["Status", "Building + Learning + Shipping"],
     ["ToolChain", "VS Code, Git, Docker, FastAPI"],
-    ["Core.Lang", "Python, SQL"],
+    ["Core.Lang", "Nodejs,Laravel,Python, SQL"],
     ["Core.Frontend", "Streamlit, Power BI"],
     ["Core.Backend", "FastAPI, LangChain"],
     ["Core.Database", "SQL, FAISS, Pandas"],
@@ -42,12 +42,12 @@ function make(theme) {
   ];
 
   const contacts = [
-    ["Grid.Mail", "rawanisuraj1919@gmail.com"],
+    ["Grid.Mail", "gkamit943@gmail.com"],
     ["Grid.Portfolio", "coming soon"],
-    ["Grid.LinkedIn", "suraj-kumar-rawani-0483b7298"],
-    ["Grid.GitHub", "@SurajRawani1919"],
+    ["Grid.LinkedIn", "amit-upinder-rao"],
+    ["Grid.GitHub", "@Amitrao20"],
     ["Grid.Instagram", "@suraj_singh1919"],
-    ["Grid.WhatsApp", "+91 7061205601"],
+    ["Grid.WhatsApp", "+91 9803437850"],
   ];
 
   function dottedLine(label, value) {
