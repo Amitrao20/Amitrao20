@@ -15,9 +15,9 @@
 
 <!-- Streak - full width (hosted in-repo; demolab API is often 503) -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SurajRawani1919/SurajRawani1919/main/streak-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SurajRawani1919/SurajRawani1919/main/streak-light.svg" />
-  <img width="100%" src="https://raw.githubusercontent.com/SurajRawani1919/SurajRawani1919/main/streak-light.svg" alt="Suraj's streak" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Amitrao20/Amitrao20/main/streak-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Amitrao20/Amitrao20/main/streak-light.svg" />
+  <img width="100%" src="https://raw.githubusercontent.com/Amitrao20/Amitrao20/main/streak-light.svg" alt="Suraj's streak" />
 </picture>
 
 <br/>
